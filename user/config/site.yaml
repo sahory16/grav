@@ -1,114 +1,42 @@
-title: SoraArticle
+title: SM
+favicon: favicon.png
 default_lang: es
+google_analytics: "UA-141816948-1"
 author:
   name: 'Sahory Maila'
   email: sahory.maila@gmail.com
-  description: 'Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
-  url: 'http://getgrav.org/'
   logo: logo.jpg
-taxonomies:
-  - category
-  - tag
-  - month
-metadata:
-  description: 'Sora Article is a minimal Theme designed for blogger, converted to Grav.'
 summary:
   enabled: true
   format: short
   size: 300
   delimiter: '==='
 blog:
-  route: ''
+  route: 'sahorymailaweb.com'
 google_translate_token: a4a3caaf1d41a924-5fa21ae3833dd6c1-g99933840045dca1c-26
 mainmenu:
   -
-    text: 'Menu Item'
+    text: Sobre mi
     url: '#'
   -
-    text: 'Another Item'
-    url: '#'
-  -
-    text: 'One more'
-    url: '#'
-  -
-    text: Contact
+    text: Contacto
     url: 'page:contact'
-masterslider:
-  -
-    image: 1.jpg
-  -
-    image: 2.jpg
-  -
-    image: 3.jpg
-masterslider_setup:
-  width: 1140
-  height: 500
-  space: 0
-  start: 1
-  grabCursor: 'false'
-  swipe: 'true'
-  mouse: 'false'
-  layout: fullwidth
-  wheel: 'false'
-  autoplay: 'true'
-  instantStartLayers: 'false'
-  loop: 'true'
-  shuffle: 'false'
-  preload: 2
-  heightLimit: 'true'
-  autoHeight: 'false'
-  smoothHeight: 'true'
-  endPause: 'false'
-  overPause: 'true'
-  fillMode: fill
-  centerControls: 'false'
-  layersMode: center
-  hideLayers: 'false'
-  fullscreenMargin: 0
-  speed: 20
-  dir: h
-  parallaxMode: swipe
-  view: basic
+
+  - text: Login
+    url: 'http://sahorymailaweb.com:86/admin'
 feedburner:
   title: 'Follow by Email'
   id: SoraArticle
-  text: 'Subscribe here to get our newsletter, it is safe just Put your Email and Press Enter'
+  text: 'Suscríbase aquí para recibir nuestro boletín de noticias, es seguro, solo coloque su correo electrónico y presione Enter'
 labels:
   title: Labels
   items:
     -
-      url: null
-      label: Cricket
-    -
-      url: null
-      label: Fashion
-    -
-      url: null
-      label: Fun
-    -
-      url: null
-      label: India
-    -
-      url: null
-      label: Punjab
-    -
-      url: null
-      label: Sport
-    -
-      url: null
-      label: Tech
-    -
-      url: null
-      label: World
+      url: 'http://getgrav.org/'
+      label: Grav
 footer:
-  title: Lipsum
-  content: 'Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus.<br /><br />Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet.'
+  title: Graficacion y Animacion
+  content: 'Este blog se lleva acabo para la materia de Graficacion y Animacion, utilizando Grav como CMS para administrar el contido.'
 copyright:
   text1: Copyright
   year: 2015
-  url: 'http://sora-article-soratemplates.blogspot.in/'
-  text2: 'Sora Article'
-copyright2:
-  text1: ', Ported by'
-  url: 'http://getgrav.org/'
-  text2: 'Grav Team'
