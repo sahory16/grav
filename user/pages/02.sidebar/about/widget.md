@@ -1,9 +1,13 @@
 ---
-title: About Me
+title: 'Sobre mi'
+media_order: foto-about.jpg
 taxonomy:
-    category: sidebar
+    category:
+        - sidebar
 ---
 
-![About Me](about.png)
+![About Me](foto-about.jpg)
 
-**My name is John Snow**. I’m a blogger...
+**Mi nombre es Sahory Maila**.      
+Soy estudiante de la carrera de Ingeniería de Sistemas y Computación 
+en La Pontificia Univercidad Católica Sede Esmeraldas (PUCESE).
