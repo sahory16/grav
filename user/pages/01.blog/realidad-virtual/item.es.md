@@ -14,4 +14,4 @@ publish_date: '03-07-2019 14:39'
 ##### <a href="#" class="btn btn-info" role="button">Ejemplo</a>
 ##### 
 ##### #### **X3dom** es una tecnología que apareció por el año 2010, proporciona un formato de intercambio de datos 3D orientado a web. 
-##### <a href="#" class="btn btn-info" role="button">Ejemplo</a>
+##### <a href="https://sahorymaila.com/es/blog/realidad-virtual/x3dom.html" class="btn btn-info" role="button">Ejemplo</a>
