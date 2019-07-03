@@ -12,7 +12,7 @@ summary:
   size: 300
   delimiter: '==='
 blog:
-  route: 'sahorymailaweb.com'
+  route: 'sahorymaila.com'
 google_translate_token: a4a3caaf1d41a924-5fa21ae3833dd6c1-g99933840045dca1c-26
 mainmenu:
   -
@@ -23,7 +23,7 @@ mainmenu:
     url: 'page:contact'
 
   - text: Login
-    url: 'http://sahorymailaweb.com:86/admin'
+    url: 'https://sahorymaila.com/admin'
 feedburner:
   title: 'Follow by Email'
   id: SoraArticle
