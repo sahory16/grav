@@ -6,6 +6,8 @@ svg {
     -ms-user-select: none;
     -o-user-select: none;
     user-select: none;
+
+    border: 1px #58faff solid
 }
 
 svg:not(.active):not(.ctrl) {
@@ -54,4 +56,3 @@ text.id {
     text-anchor: middle;
     font-weight: bold;
 }
-body{border: 1px #58faff solid}
