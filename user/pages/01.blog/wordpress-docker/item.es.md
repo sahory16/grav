@@ -1,7 +1,7 @@
 ---
 title: 'WordPress Con Docker'
 media_order: 1.png
-date: '17:34 05/04/2019'
+date: '04-05-2019 17:34'
 taxonomy:
     category:
         - blog

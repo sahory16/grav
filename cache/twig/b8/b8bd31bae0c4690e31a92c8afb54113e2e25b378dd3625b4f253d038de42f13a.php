@@ -289,7 +289,7 @@ class __TwigTemplate_1755b95f51fc523bcd3424a3ae0a2fc8dc6e9de7b0328388f245f07ef82
             if ($this->getAttribute(($context["field"] ?? null), "markdown", [])) {
                 // line 56
                 echo "                                ";
-                echo twig_escape_filter($this->env, $this->env->getExtension('Grav\Common\Twig\TwigExtension')->translate($this->env, _twig_default_filter($this->env->getExtension('Grav\Common\Twig\TwigExtension')->markdownFunction($this->getAttribute(($context["field"] ?? null), "label", []), false), twig_capitalize_string_filter($this->env, $this->getAttribute(($context["field"] ?? null), "name", [])))), "html_attr");
+                echo $this->env->getExtension('Grav\Common\Twig\TwigExtension')->translate($this->env, _twig_default_filter($this->env->getExtension('Grav\Common\Twig\TwigExtension')->markdownFunction($this->getAttribute(($context["field"] ?? null), "label", []), false), twig_capitalize_string_filter($this->env, $this->getAttribute(($context["field"] ?? null), "name", []))));
                 echo "
                             ";
             } else {
@@ -637,7 +637,7 @@ class __TwigTemplate_1755b95f51fc523bcd3424a3ae0a2fc8dc6e9de7b0328388f245f07ef82
                             {% endif %}
                         {% else %}
                             {% if field.markdown %}
-                                {{ field.label|markdown(false)|default(field.name|capitalize)|t|e('html_attr') }}
+                                {{ field.label|markdown(false)|default(field.name|capitalize)|t }}
                             {% else %}
                                 {{ field.label|default(field.name|capitalize)|t|e('html_attr') }}
                             {% endif %}
