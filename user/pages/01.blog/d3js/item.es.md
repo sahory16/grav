@@ -11,7 +11,8 @@ publish_date: '03-07-2019 17:32'
 
 <a href="d3js/ejemplo.html" class="btn btn-info" role="button">Ejemplo</a>
 
+#####Directed Graph Editor
 <div class="index">
-    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="d3js/ejemplo.html" marginwidth="1" marginheight="1" style="height:500px;" scrolling="si">
+    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="d3js/ejemplo.html" marginwidth="0" marginheight="0" style="height:100px;" scrolling="no">
     </iframe>
   </div>
