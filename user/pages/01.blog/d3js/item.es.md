@@ -13,6 +13,6 @@ publish_date: '03-07-2019 17:32'
 
 #####Directed Graph Editor
 <div class="index" border= 1px blue solid>
-    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="d3js/ejemplo.html" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no" >
+    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="d3js/ejemplo.html" marginwidth="0" marginheight="0" style="height:500px;" scrolling="si" >
     </iframe>
   </div>
