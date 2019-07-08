@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1562028876,
-    'checksum' => '4a2af928a18df189ffb0eeeb229fbda4',
+    'timestamp' => 1562198400,
+    'checksum' => 'd9f2c6ae7af98e5eaf87760a2008fda4',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -35,7 +35,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1562019721
+                'modified' => 1562182595
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -75,7 +75,7 @@ return [
         'user/plugins' => [
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1562007067
+                'modified' => 1562183739
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
@@ -87,7 +87,7 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1562007073
+                'modified' => 1562183724
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
@@ -739,7 +739,7 @@ node_modules'
             'redirects' => NULL,
             'routes' => NULL,
             'blog' => [
-                'route' => 'sahorymailaweb.com'
+                'route' => 'sahorymaila.com'
             ],
             'favicon' => 'favicon.png',
             'google_analytics' => 'UA-143170319-1',
@@ -755,7 +755,7 @@ node_modules'
                 ],
                 2 => [
                     'text' => 'Login',
-                    'url' => 'http://sahorymailaweb.com:86/admin'
+                    'url' => 'https://sahorymaila.com/admin'
                 ]
             ],
             'feedburner' => [
