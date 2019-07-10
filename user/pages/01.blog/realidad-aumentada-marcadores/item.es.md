@@ -5,7 +5,7 @@ title: 'Realidad Aumentada: Marcadores'
 
 ===
 
-Dar click en -> <a href="" class="btn btn-info" role="button">Camara</a>
+Dar click en -> <a href="realidad-aumentada-marcadores/arjs.html" class="btn btn-info" role="button">Camara</a>
  #####Marcador 1
  
 <img src="realidad-aumentada-marcadores/marcadores/pattern-lab1.png">
