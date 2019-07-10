@@ -2,4 +2,4 @@
 title: 'Realidad Aumentada: Marcadores'
 ---
 
-Camara
+<a href="" class="btn btn-info" role="button">Camara</a>
