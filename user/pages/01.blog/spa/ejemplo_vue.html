@@ -16,8 +16,10 @@
     <section class="form">
         <form action="" class="text-center">
             <input v-model="nombre" @keyup.enter="crearPaciente" type="text" class="form-control" placeholder="Nombre">
+            <br>
             <input v-model="edad" @keyup.enter="crearPaciente" type="number" name="edad" placeholder="Edad" class="form-control">
             <!-- Botón para añadir -->
+            <br>
             <input @click="crearPaciente" type="button" value="Añadir" class="btn btn-success">
         </form>
     </section>
