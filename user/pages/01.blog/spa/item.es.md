@@ -11,6 +11,6 @@ publish_date: '22-07-2019 15:00'
 
 <a href="spa/ejemplo_vue.html" class="btn btn-info" role="button">Vue</a>
 
-<a href="spa/angular" class="btn btn-info" role="button">Angular</a>
-
 <a href="spa/proyecto" class="btn btn-info" role="button">React</a>
+
+<a href="spa/angular" class="btn btn-info" role="button">Angular</a>
