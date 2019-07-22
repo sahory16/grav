@@ -7,5 +7,10 @@ publish_date: '22-07-2019 15:00'
 
 #### Es una aplicación web o es un sitio web que cabe en una sola página con el propósito de dar una experiencia más fluida a los usuarios como una aplicación de escritorio. En un SPA todos los códigos de HTML, JavaScript, y CSS se carga de una vez o los recursos necesarios se cargan dinámicamente como lo requiera la página y se van agregando, normalmente como respuesta de las acciones del usuario. 
 ===
-  
+ #### En un SPA todos los códigos de HTML, JavaScript, y CSS se carga de una vez o los recursos necesarios se cargan dinámicamente como lo requiera la página y se van agregando, normalmente como respuesta de las acciones del usuario. 
 
+<a href="spa/ejemplo_vue.html" class="btn btn-info" role="button">Vue</a>
+
+<a href="spa/angular" class="btn btn-info" role="button">Angular</a>
+
+<a href="spa/proyecto" class="btn btn-info" role="button">React</a>
